@@ -23,22 +23,17 @@
 {
 "id": "bg_01",
 "name": "背景 01",
-"url": "./bg/bg_01.png"
+"url": "./bg/school_courtyard_bench_1.jpg"
 },
 {
 "id": "bg_02",
 "name": "背景 02",
-"url": "./bg/bg_02.png"
+"url": "./bg/school_courtyard_bench_2.jpg"
 },
 {
 "id": "bg_03",
 "name": "背景 03",
-"url": "./bg/bg_03.png"
-},
-{
-"id": "bg_04",
-"name": "背景 04",
-"url": "./bg/bg_04.png"
+"url": "./bg/school_courtyard_bench_3.jpg"
 }
 ],
 "motions": [
