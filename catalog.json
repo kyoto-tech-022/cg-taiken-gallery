@@ -19,10 +19,32 @@
 "image": "./png/20261122-02.png"
 }
 ],
+"backgrounds": [
+{
+"id": "bg_01",
+"name": "背景 01",
+"url": "./bg/bg_01.png"
+},
+{
+"id": "bg_02",
+"name": "背景 02",
+"url": "./bg/bg_02.png"
+},
+{
+"id": "bg_03",
+"name": "背景 03",
+"url": "./bg/bg_03.png"
+},
+{
+"id": "bg_04",
+"name": "背景 04",
+"url": "./bg/bg_04.png"
+}
+],
 "motions": [
 {
 "id": "vrma_01",
-"name": "全身を見せる",
+"name": "全身",
 "url": "./vrma/VRMA_01.vrma"
 },
 {
