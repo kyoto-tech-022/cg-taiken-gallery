@@ -1,0 +1,59 @@
+{
+"siteUrl": "https://kyoto-tech-022.github.io/cg-taiken-gallery/",
+"updatedAt": "2026-11-22",
+"models": [
+{
+"id": "20261122-01",
+"date": "2026-11-22",
+"number": "01",
+"title": "No.01",
+"url": "./vrm/20261122-01.vrm",
+"image": "./png/20261122-01.png"
+},
+{
+"id": "20261122-02",
+"date": "2026-11-22",
+"number": "02",
+"title": "No.02",
+"url": "./vrm/20261122-02.vrm",
+"image": "./png/20261122-02.png"
+}
+],
+"motions": [
+{
+"id": "vrma_01",
+"name": "全身を見せる",
+"url": "./vrma/VRMA_01.vrma"
+},
+{
+"id": "vrma_02",
+"name": "挨拶",
+"url": "./vrma/VRMA_02.vrma"
+},
+{
+"id": "vrma_03",
+"name": "Vサイン,
+"url": "./vrma/VRMA_03.vrma"
+},
+{
+"id": "vrma_04",
+"name": "撃つ",
+"url": "./vrma/VRMA_04.vrma"
+},
+{
+"id": "vrma_05",
+"name": "回る",
+"url": "./vrma/VRMA_05.vrma"
+},
+{
+"id": "vrma_06",
+"name": "モデルポーズ",
+"url": "./vrma/VRMA_06.vrma"
+},
+{
+"id": "vrma_07",
+"name": "屈伸運動",
+"url": "./vrma/VRMA_07.vrma"
+}
+]
+}
